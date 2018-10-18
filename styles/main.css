@@ -1,0 +1,110 @@
+
+
+
+
+h1 {color: white;
+  font-family: 'Mali', serif;
+   font-size: 45px;
+    font-weight: normal;
+     line-height: 48px;
+     margin: 0; }
+
+video{
+  text-align: center;
+  width: 800px;
+  height: 600px;
+}
+
+
+
+h2 { color: #7c795d;
+font-family: 'Montserrat', sans-serif;
+font-size: 28px;
+font-weight: 400;
+line-height: 32px;
+ margin: 0 0 24px; }
+
+
+.subheader { font-size: 26px;
+  font-weight: 300;
+  color: #ffff;
+  margin: 0 0 24px; }
+
+  img {
+  	width: 200px;
+  	height: 150px;
+  }
+
+.texte{
+  margin-left: 300px;
+  margin-top: 10px;
+  margin-right: 300px;
+  }
+
+p { color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+padding-top: 1em;}
+
+
+a {
+    color: #F6DC00;
+    text-decoration: none;
+}
+
+
+
+body {
+  text-align: center;
+background-color:#F4D75C;
+color: white;
+}
+
+
+section{
+  max-width: 960px;
+  margin:0 auto;
+}
+
+
+
+
+.topnav {
+    background-color: #8DC63F;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left : 0;
+    right: 0;
+}
+
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+    background-color: #F6DC00;
+    color:white;
+}
+
+
+.topnav a.active {
+    background-color: #EF9AB0;
+    color: white;
+}
+
+.footer {
+  padding: 1rem;
+  background-color: #8DC63F;
+  text-align: center;
+
+
+}
